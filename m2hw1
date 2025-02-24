@@ -1,0 +1,36 @@
+//CSC 134
+//M2HW1 - bronze
+//tariq thomas
+//2/23/2025
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+    string name="tariq";
+    string name; double acountbalance,deposit,withdrawal;
+
+    cout << "starting account balance: ";
+    cin >> acountbalance;
+
+    cout << "amount of deposit: ";
+    cin >> deposit;
+
+    cout << "amount of withdrawal: ";
+    cin >> withdrawal;
+
+    
+    
+    int acountnumber=100; 
+
+    
+    cout << "name on account: ";
+   
+   
+    cout <<"account number: ";
+
+    cout<< "final account balance:";
+    
+    return 0;
+}
